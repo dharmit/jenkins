@@ -73,3 +73,6 @@ blueocean:1.4.1
 # 2.5 now includes pipeline-model-definition (declaritive pipeline)
 # 2.4 brought in pipeline-milestone-step
 workflow-aggregator:2.5
+
+# Plugins for CentOS Container Pipeline
+email-ext:2.62
